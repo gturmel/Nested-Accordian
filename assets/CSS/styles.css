@@ -1,0 +1,38 @@
+/*general body styling*/
+
+html {
+   background-color: #eee;
+   font-family: Garamond, sans-serif;
+}
+
+/*section styling*/
+
+section {
+   margin-left: 3em;
+   margin-right: 3em;
+
+}
+
+/*header styling*/
+
+header {
+   font-size: 3em;
+   color: lightblue;
+   border-bottom: 2px solid grey;
+   padding: 1em 0 1em 0;
+
+}
+
+header i {
+   color: grey;
+}
+/*article styling*/
+
+article {
+   padding-top: 1em;
+   font-size: 1.5em;
+}
+
+article.hidden {
+   display: none;
+}
