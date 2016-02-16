@@ -20,7 +20,6 @@ header {
    color: lightblue;
    border-bottom: 2px solid grey;
    padding: 1em 0 1em 0;
-
 }
 
 header i {
@@ -33,6 +32,10 @@ article {
    font-size: 1.5em;
 }
 
-/*article.hidden {
+article.reveal {
+   display: block;
+}
+
+article.hidden {
    display: none;
-}*/
+}
