@@ -39,3 +39,18 @@ article.reveal {
 article.hidden {
    display: none;
 }
+
+/*list elements styling*/
+
+ul {
+   margin-top: 1em;
+}
+
+li {
+   padding: 0.5em;
+   color: lightblue;
+}
+
+li i {
+   color: grey;
+}
